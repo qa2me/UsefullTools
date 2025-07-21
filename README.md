@@ -41,7 +41,16 @@ This README was last updated on [20/7/2025].
 ## Credits
 Thanks to the following contributors:
 - [Qais AL-Badowi](https://github.com/qa2me)
+## License
 
+This application is provided as a compiled executable (.exe) and is free for personal use. 
+
+You are **not allowed** to:
+- Modify, reverse-engineer, decompile, or disassemble the application.
+- Redistribute the application without explicit permission.
+- Use the application for commercial purposes without a separate license agreement.
+
+All rights are reserved by [Qais Al-Badowi (Qa2me)].
 
 
 
