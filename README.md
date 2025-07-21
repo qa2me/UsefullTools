@@ -32,6 +32,9 @@ To use the MyPC Tool, follow these steps:
 3. if 2 is entered see the BottleNeck persentage and causer (CPU || GPU).
 4. if other number selected terminate and exit.
 
-## Examples
+## SnapShots
+![Example](example.png)
+
+
 
 
