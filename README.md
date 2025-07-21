@@ -33,7 +33,7 @@ To use the MyPC Tool, follow these steps:
 4. if other number selected terminate and exit.
 
 ## SnapShots
-![Example](example.png)
+![Example](example.PNG)
 
 
 
