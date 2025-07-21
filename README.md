@@ -9,3 +9,6 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Prerequisites
+- Windows Operating System.
