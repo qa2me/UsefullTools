@@ -35,8 +35,7 @@ To use the MyPC Tool, follow these steps:
 ## SnapShots
 ![Example](example.PNG)
 
-## Last Updated
-This README was last updated on [20/7/2025].
+
 
 ## Credits
 Thanks to the following contributors:
@@ -52,5 +51,6 @@ You are **not allowed** to:
 
 All rights are reserved by [Qais Al-Badowi (Qa2me)].
 
-
+## Last Updated
+This README was last updated on [21/7/2025].
 
