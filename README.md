@@ -12,3 +12,14 @@
 
 ## Prerequisites
 - Windows Operating System.
+
+## Installation
+1. Clone the repository:
+
+git clone https://github.com/qa2me/UsefullTools.git
+
+cd UsefullTools
+
+v1-2.exe
+
+
