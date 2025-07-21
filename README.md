@@ -40,7 +40,7 @@ This README was last updated on [20/7/2025].
 
 ## Credits
 Thanks to the following contributors:
-- [Contributor1](https://github.com/qa2me)
+- [Qais AL-Badowi](https://github.com/qa2me)
 
 
 
