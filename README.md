@@ -7,7 +7,7 @@
 ## Table of Content:
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#credit)
+- [Contributing](#Credits)
 - [License](#license)
 
 ## Prerequisites
