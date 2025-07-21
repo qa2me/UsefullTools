@@ -16,10 +16,19 @@
 ## Installation
 1. Clone the repository:
 
-git clone https://github.com/qa2me/UsefullTools.git
+2. git clone https://github.com/qa2me/UsefullTools.git
 
-cd UsefullTools
+3. cd UsefullTools
 
-v1-2.exe
+4. v1-2.exe
 
+
+## Usage
+
+To use the MyPC Tool, follow these steps:
+
+1. enter your choice 1,2 or any other number to exit.
+1.1. if 1 is entered monitor you system component.
+1.2. if 2 is entered see the BottleNeck persentage and causer (CPU || GPU).
+1.3. if other number selected terminate and exit.
 
