@@ -33,7 +33,9 @@ To use the MyPC Tool, follow these steps:
 4. if other number selected terminate and exit.
 
 ## SnapShots
+#### ShowParts Functionality:
 ![Example](example.PNG)
+#### Show BottleNeck Percentage: 
 ![Example](example2.png)
 
 
@@ -53,5 +55,8 @@ You are **not allowed** to:
 All rights are reserved by [Qais Al-Badowi (Qa2me)].
 
 ## Last Updated
-This README was last updated on [21/7/2025].
+This README was last updated on [23/7/2025].
+
+# Note
+### The bottleneck  functionality can't be used to calculate AMD cpus due to manifacture information shortage I will do some expermints in order to make this Functionality work for AMD cpu users in the other hand the GPUs are all supported until RTX 4090 TI and AMD GPUs are also supported.
 
