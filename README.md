@@ -58,5 +58,5 @@ All rights are reserved by [Qais Al-Badowi (Qa2me)].
 This README was last updated on [23/7/2025].
 
 # Note
-### The bottleneck  functionality can't be used to calculate AMD cpus due to manifacture information shortage I will do some expermints in order to make this Functionality work for AMD cpu users in the other hand the GPUs are all supported until RTX 4090 TI and AMD GPUs are also supported.
+#### The bottleneck  functionality can't be used to calculate AMD cpus due to manifacture information shortage I will do some expermints in order to make this Functionality work for AMD cpu users in the other hand the GPUs are all supported until RTX 4090 TI and AMD GPUs are also supported.
 
