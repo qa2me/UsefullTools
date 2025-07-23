@@ -34,6 +34,7 @@ To use the MyPC Tool, follow these steps:
 
 ## SnapShots
 ![Example](example.PNG)
+![Example](Screenshot 2025-07-23 215746.png)
 
 
 
