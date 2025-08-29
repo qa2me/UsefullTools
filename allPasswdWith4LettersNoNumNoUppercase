@@ -1,0 +1,35 @@
+#include <bits/stdc++.h>
+using namespace std;
+using ll = long long;
+#define ld long double
+
+
+
+int main(){
+    ios_base::sync_with_stdio(false);cin.tie(NULL);
+    char l[] = {
+        'a','b','c','d','e','f','g','h','i','j','k','l','m',
+        'n','o','p','q','r','s','t','u','v','w','x','y','z'
+    };
+    string pos="";
+    ofstream file("passwd.txt");
+
+
+
+
+    for(int j=0;j<26;j++){
+        for(int e=0;e<26;e++){
+            for(int f=0;f<26;f++){
+                for(int g=0;g<26;g++){
+                    pos+=l[j];
+                    pos+=l[e];
+                    pos+=l[f];
+                    pos+=l[g];
+                    file<<pos<<"\n";
+                    pos="";
+                }
+            }
+        }
+    }
+    cout<<"finished\n";
+}
