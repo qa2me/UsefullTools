@@ -37,6 +37,8 @@ To use the MyPC Tool, follow these steps:
 ![Example](example.PNG)
 #### Show BottleNeck Percentage: 
 ![Example](example2.png)
+#### Show What To Upgrade Next:
+![Example](example3.png)
 
 
 
